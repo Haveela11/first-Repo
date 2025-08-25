@@ -1,0 +1,3 @@
+Name- Pala Haveela
+Course- Data Science
+Learned about creating a new repository and uploading a file
